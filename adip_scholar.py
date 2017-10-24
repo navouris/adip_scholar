@@ -1,7 +1,7 @@
 '''
 adip_scholar v 0.9 Nikos Avouris - October 2017
 # python3 script tested with python 3.6
-input: αρχείο profs_google_full.csv με δύο στήλες, όνομα ερευνητή και url προφιλ στο Google scholar
+input: αρχείο researchers_url.csv με δύο στήλες, όνομα ερευνητή και url προφιλ στο Google scholar
 πχ.
 "Einstein Albert","https://scholar.google.gr/citations?user=qc6CJjYAAAAJ&hl=el&oi=ao"
 Παράγει στην έξοδο αρχείο citations_[year].csv
