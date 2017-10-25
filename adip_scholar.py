@@ -152,7 +152,7 @@ class Report():
                 try:
                     out += str(r.citations['h-indexAll']) + ';' + str(r.citations['CitationsAll']) + ';'
                 except:
-                    print('BIG MISTAKE!!')
+                    print('error in finding h-index and citationsAll in profile')
                     pass
             try:
                 for y in range(5):
